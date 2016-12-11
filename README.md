@@ -8,7 +8,7 @@ Set up the Django app:
 - `python manage.py migrate`
 - `python manage.py runserver`
 
-Set up Angular app:
+(In another teminal window) Set up Angular app:
 
 - `cd angular2`
 - `npm install`
